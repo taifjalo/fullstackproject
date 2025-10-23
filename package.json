@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@fontsource/inter": "^5.2.6",
+    "multer": "^2.0.2"
+  }
+}
