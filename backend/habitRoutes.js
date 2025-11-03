@@ -10,7 +10,7 @@ let habitRoutes = express.Router();
 //http://localhost:3000/habits
 habitRoutes.route("/habits").get(verifyToken, async (request, response) => {
   let db = database.getDb();
-  // author: request.user._id
+  // author: request.user._id اجعل المستخدم يشوف فقط عاداته (مو كل العادات)
   // let data = await db.collection("habits").find({ author: request.user._id }).toArray();
   let data = await db.collection("habits").find({}).toArray();
   if (data.length > 0) {
