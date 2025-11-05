@@ -1,0 +1,49 @@
+[33md7e05b2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m up
+[33mbb6ca6b[m Remove secrets from README.md in HEAD
+[33ma38d840[m up
+[33m7115560[m upp
+[33md284d38[m up
+[33m4046fc3[m up
+[33m2c62be2[m Resolve merge conflict in habitRoutes.js
+[33md045b6b[m New updates
+[33mb3eace2[m fixes, updates
+[33mddeb1f0[m README
+[33mbd1eef0[m Remove node_modules folders from repo
+[33md5812d7[m Remove node_modules folders from repo
+[33mbac8576[m Resolve merge conflicts after merging histories
+[33m1215cb2[m Resolve merge conflicts after merging histories
+[33mf1da3fc[m Add README for Habit Tracker project
+[33me97c5f8[m updates
+[33me63a731[m updates
+[33m23d9076[m Add placeholder config.env for safe sharing
+[33m329e59c[m Add placeholder config.env for safe sharing
+[33maa13515[m Add placeholder config.env for safe sharing
+[33mecf3f0c[m Update .gitignore to ignore node_modules and secrets
+[33m8bf6270[m Update .gitignore to ignore node_modules and secrets
+[33mbc95108[m Update .gitignore to ignore node_modules and secrets
+[33m490e394[m Remove node_modules from repo
+[33mf5a447d[m Remove node_modules from repo
+[33m2f66c45[m Remove node_modules from repo
+[33m2b6aef6[m Ignore node_modules
+[33mcf2614c[m Ignore node_modules
+[33m23c6e36[m Ignore node_modules
+[33me58bed7[m Remove node_modules and secrets from repo
+[33m428ce94[m Remove node_modules and secrets from repo
+[33m6d59296[m Remove node_modules and secrets from repo
+[33m761a850[m Add proper .gitignore
+[33m6e3600d[m Add proper .gitignore
+[33m9f1e077[m Add proper .gitignore
+[33m77d21f3[m Add placeholder config.env and ignore real secrets
+[33mdb4faac[m Add placeholder config.env and ignore real secrets
+[33m77e1c7d[m Add placeholder config.env and ignore real secrets
+[33m05e8094[m Remove secrets properly
+[33mb479340[m Remove secrets properly
+[33mb70c1c0[m Remove secrets properly
+[33m03be93c[m Ignore config.env to prevent secrets from being committed
+[33mfe556e2[m Ignore config.env to prevent secrets from being committed
+[33m2d33b16[m Ignore config.env to prevent committing secrets
+[33m4646210[m Ignore config.env to prevent committing secrets
+[33m3c7b3cf[m Habit App
+[33m8b33210[m Habit App
+[33m87c9864[m Fresh start: clean history (no secrets)
+[33m069ee21[m Fresh start: clean history (no secrets)
